@@ -1,3 +1,3 @@
-# GoBy with Facebook Native login with Ionic Framework
+# GoByEmpty working Mobile app w/ Ionic Framework
 
-This repository is to manage the GoBy Project
+This repository is to initialize an empty project
